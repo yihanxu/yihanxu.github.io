@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: 终于在互联网上觅得一方净土!
 ---
 
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+博客也算写了十年，终于拓了一小块自用地。希望以后能好好在这里栽种耕耘，安静书写。
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
