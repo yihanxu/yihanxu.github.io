@@ -1,15 +1,16 @@
 ---
 layout: page
-title: About
+title: 关于我
 permalink: /about/
 ---
 
-Some information about you!
+这是我的私人博客，是我的文字自留地。森林花园大而好，但人人内心都渴慕自家后院能有一方苗圃。同样的，社交平台的文字多而烦，但我依然想拓一小块素净之地，单纯搞搞文字园艺。
 
-### More Information
+### 为什么要来这里
 
-A place to include any other types of information that you'd like to include about yourself.
+以前在不少地方写过文章，但这些文字平台在竞争激烈的互联网时代无不经历大起大落，最后成了跟原先很不一样的地方。我希望这里能永远干净明亮，就像日出一样，无须修饰无须改良，读不腻，也写不伤。
 
-### Contact me
+### 联系方式
 
-[yihanxu01#gmail.com](mailto:email@domain.com)
+邮件：[yihanxu01#gmail.com](mailto:email@domain.com)
+豆瓣：http://www.douban.com/people/yummyhue/
