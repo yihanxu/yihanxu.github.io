@@ -13,4 +13,4 @@ permalink: /about/
 ### 联系方式
 
 邮件：[yihanxu01#gmail.com](mailto:email@domain.com)
-豆瓣：http://www.douban.com/people/yummyhue/
+豆瓣：[yihan爱书橱](http://www.douban.com/people/yummyhue)
