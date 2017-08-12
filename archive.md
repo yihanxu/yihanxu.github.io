@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Achive
 permalink: /archive/
 ---
 
