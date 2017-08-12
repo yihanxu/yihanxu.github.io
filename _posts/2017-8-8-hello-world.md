@@ -1,6 +1,6 @@
 ---
 layout: post
-comment: true
+comments: true
 title: 终于在互联网上觅得一方净土!
 ---
 
