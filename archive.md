@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Achive
-permalink: /achive/
+permalink: /archive/
 ---
 
 <section class="archive-post-list">
