@@ -1,3 +1,9 @@
+---
+layout: post
+comments: true
+title: "生而为王"
+---
+
 ![The Man Born to Be King](http://upload-images.jianshu.io/upload_images/19585-88c15099716b50a3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 今天是复活节，很多人都会去教会，连那些一年只去教会两次的人也多半会去（另一次是12月25日）。
