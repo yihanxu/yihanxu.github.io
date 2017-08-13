@@ -78,9 +78,6 @@ Here we generate all the tags.
   {% endfor %}
 </ul>
 {% endfor %}
-</ul>
-</div>
-
 
 {% comment%}
 Here we generate all the categories.
