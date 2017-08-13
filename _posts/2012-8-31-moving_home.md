@@ -2,6 +2,8 @@
 layout: post
 comments: true
 title: "追忆搬家往事"
+tags: 搬家
+category: 随笔
 ---
 
 走到朋友家的卫生间，看到洗发水跟沐浴露居然跟我用的一模一样的牌子，心头瞬间有种“吾心安处即吾家”的感觉。
