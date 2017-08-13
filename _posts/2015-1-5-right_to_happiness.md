@@ -2,8 +2,6 @@
 layout: post
 comments: true
 title: "我们有幸福权吗？"
-category: 译者无疆
-tags: C.S.Lewis 基督教 爱
 ---
 
 ### 1.
