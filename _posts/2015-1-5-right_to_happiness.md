@@ -2,6 +2,8 @@
 layout: post
 comments: true
 title: "我们有幸福权吗？"
+category: Translation
+tags: right_to_happiness
 ---
 
 ### 1.
