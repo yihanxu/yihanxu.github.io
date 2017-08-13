@@ -49,6 +49,17 @@ baseurl: ""
 
 permalink: /:title/
 
+# Navigation (2nd level links supported)
+nav:
+  Home:           
+    - '/'
+  Blog:           
+    - '/blog/'
+    - { Categories: '/blog/category/' }
+    - { Tags: '/blog/tags/' }
+  About:          
+    - '/about/'
+
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
