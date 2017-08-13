@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: "我们有幸福权吗？"
+category: 译者无疆
 ---
 
 ### 1.
