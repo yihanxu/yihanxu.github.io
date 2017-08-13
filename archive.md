@@ -48,7 +48,7 @@ Here we generate all the tags.
 {% endfor %}
 
 <h1 class="page-title">
-  <a href="/blog">Blog</a> | {{ page.title }}
+  <a href="/blog">Tags</a> 
 </h1>
 <br/>
 
@@ -109,7 +109,7 @@ Here we generate all the categories.
 {% endfor %}
 
 <h1 class="page-title">
-  <a href="/blog">Blog</a> | {{ page.title }}
+  <a href="/blog">Category</a>  
 </h1>
 <br/>
 
