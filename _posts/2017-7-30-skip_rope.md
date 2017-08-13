@@ -2,6 +2,8 @@
 layout: post
 comments: true
 title: "买了根绳"
+category: 秀恩爱
+tags: sport
 ---
 
 据说跳绳10分钟相当于慢跑30分钟，这等减肥神器岂能错过？于是今天礼拜完我就去买跳绳。挑了半天，最后还是屈服于颜值的诱惑，选了根bling bling的美绳。一到家，老张踩点给我打facetime，我得意兮兮地跟他炫起了我的新宠。
