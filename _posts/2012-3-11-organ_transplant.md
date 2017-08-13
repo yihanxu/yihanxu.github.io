@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "器官移植，供求与伦理的博弈"
-category: Translation
+category: 就事论事
 tags: organ_transplant 史铁生
 ---
 
