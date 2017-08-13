@@ -4,7 +4,7 @@
     - subtitle: "Tag"
       subhref: "/blog/tag/"
     - subtitle: "Category"
-      subhref: "blog/category"
+      subhref: "/blog/category/"
 
 - title: "Archive"
   href: "/archive/"
