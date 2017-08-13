@@ -2,6 +2,8 @@
 layout: post
 comments: true
 title: "生而为王"
+category: 基督信仰
+tags: Dorothy_Sayers essay
 ---
 
 ![The Man Born to Be King](http://upload-images.jianshu.io/upload_images/19585-88c15099716b50a3.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
