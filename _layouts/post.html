@@ -7,8 +7,8 @@ layout: default
 
   <div class="entry">
     {{ content }}
-  </div>
   
+<<<<<<< HEAD
   <div class="date">
   Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
@@ -18,13 +18,22 @@ layout: default
   </div>  
 
 </article>
+=======
+   <div class="date">
+    Written on {{ page.date | date: "%B %e, %Y" }}
+   </div>
+    
+  <div class = "disqus">
+    {% include disqus.html %}
+  </div>
+>>>>>>> 6f796c076a8f2d82cd955093c2638840a604e7e5
 
-<div class="relatedPosts">
+  <div class="relatedPosts">
 
 <h4>You May Also Enjoy</h4> 
   
 {% assign maxRelated = 4 %}
-{% assign minCommonTags =  2 %}
+{% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
 
 {% for post in site.posts %}
@@ -53,5 +62,7 @@ layout: default
     {% endif %}
 
   {% endfor %}
-
-</div>
+    
+  </div>
+  
+</article>
