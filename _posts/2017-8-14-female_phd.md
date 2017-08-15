@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "女博士结婚后还搞不搞科研"
-category: 随笔
+category: 随笔 寻寻觅觅
 tags: phd marry research
 ---
 
