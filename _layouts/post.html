@@ -12,12 +12,7 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
    </div>
     
-  <div class = "disqus">
-    {% include disqus.html %}
-  </div>
-</article>
-  
-  <div class="relatedPosts">
+   <div class="relatedPosts">
 
 <h4>You May Also Enjoy</h4> 
   
@@ -51,6 +46,11 @@ layout: default
     {% endif %}
 
   {% endfor %}
-    
+  
   </div>
+
+  <div class = "disqus">
+    {% include disqus.html %}
+  </div>
+</article>
 
