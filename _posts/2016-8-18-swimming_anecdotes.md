@@ -2,6 +2,8 @@
 layout: post
 comments: true
 title: "我的游泳史"
+category: 随笔
+tags: swimming
 ---
 
 人人都天生会哭会笑会闹，但没人天生会游泳。

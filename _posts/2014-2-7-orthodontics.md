@@ -2,6 +2,7 @@
 layout: post
 comments: true
 title: 整牙
+category: 随笔
 ---
 
 昨天去参加高中同学婚礼，见到不少六七年没见的老同学。

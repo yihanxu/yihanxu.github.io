@@ -2,6 +2,8 @@
 layout: post
 comments: true
 title: "为什么要读名著"
+category: 读来读往
+tags: reading classics
 ---
 
 读名著是为了什么？书店里有那么多书，为什么要读名著呢？所谓青菜萝卜各有所爱，选自己爱看的不就得了？

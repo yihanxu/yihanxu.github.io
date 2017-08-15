@@ -3,6 +3,8 @@
 layout: post
 comments: true
 title: "到底是我帮你，还是你帮我？"
+category: 基督信仰
+tags: hope love life_is_beautiful
 ---
 
 ![help me.jpg](http://upload-images.jianshu.io/upload_images/19585-ce62b67f9fa1c2b2.jpg)
