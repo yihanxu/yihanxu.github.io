@@ -2,7 +2,7 @@
 ---
 layout: post
 comments: true
-title: "到底是我帮你，还是你帮我？"
+title: "到底是我帮你，还是你帮我?"
 category: 基督信仰
 tags: hope love life_is_beautiful
 ---
