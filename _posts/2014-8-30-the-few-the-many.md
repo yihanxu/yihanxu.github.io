@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "一笔稿费，一大笔"
+title: "少数人与大多数"
 category: Translation
 tags: C.S.Lewis essay literary_criticism reading
 ---
