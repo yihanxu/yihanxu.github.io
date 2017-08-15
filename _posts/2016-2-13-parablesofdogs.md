@@ -2,6 +2,8 @@
 layout: post
 comments: true
 title: "关于狗的寓言两则"
+category: 讲个故事
+tags: dog parable
 ---
 
 今天我想讲讲关于狗的两则寓言。
