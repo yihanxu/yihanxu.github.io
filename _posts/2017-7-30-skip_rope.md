@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "买了根绳"
-categories: 秀恩爱 黑色幽默
+categories: 秀恩爱 
 tags: sport
 ---
 
