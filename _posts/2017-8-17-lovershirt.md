@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "情侣T恤"
-categories: 秀恩爱 黑色幽默
+category: 黑色幽默
 tags：共度一生
 ---
 
