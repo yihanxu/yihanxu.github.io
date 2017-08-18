@@ -3,6 +3,7 @@ layout: post
 comments: true
 title: "人生大事"
 category: 寻寻觅觅
+tags: marry
 ---
 
 ![执子之手](http://upload-images.jianshu.io/upload_images/19585-886b1f81011d8d1a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
