@@ -12,9 +12,9 @@ category: 这就是生活
 
 因此我总是避免升级iOS系统，能免则免！目前我还在用出厂配置iOS8。难道不升级就真的不能下载我的如意App了吗？还好天无绝人之路，今天我终于找到了办法，详尽教程可移步[这里](https://www.linkedin.com/pulse/how-download-older-version-app-when-requires-newer-ios-chris-allard)。
 
-其实原理特别简单，先在电脑端获取App从而在iCloud创建App购买记录，然后再通过手机终端调取iCloud上的购买记录，好让iOS自动获取适配App版本。具体操作也很顺手：
+其实原理特别简单，先在电脑端获取App从而在iCloud创建App购买记录，然后再通过手机终端调取iCloud上的购买记录，这样既可在手机端自动获取适配App版本。具体操作也很顺手：
 
-1. 先在iTunes登陆账号，然后在下拉菜单里勾选Apps，然后在顶部菜单Library，Update，App Store三栏里点击App Store，输入App名称，然后下载即可。![](images/apps.png)
+1. 先在iTunes登陆账号，然后在下拉菜单里勾选Apps，然后在顶部菜单Library，Update，App Store三栏里点击App Store，输入App名称，然后下载即可。![](/images/apps.png)
 
 2. 接下来再在手机App Store搜索该APP，此时APP右边就会出现一朵带下拉箭头的小云彩，点击，确认下载可兼容版本里最新的就大功告成啦！
 
