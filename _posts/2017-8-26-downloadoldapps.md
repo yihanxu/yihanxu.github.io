@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "苹果手机如何下载老版本App？"
-tags: apps update 
+tags: apps update iOS iTunes
 category: 这就是生活
 ---
 
@@ -12,7 +12,7 @@ category: 这就是生活
 
 因此我总是避免升级iOS系统，能免则免！目前我还在用出厂配置iOS8。难道不升级就真的不能下载我的如意App了吗？还好天无绝人之路，今天我终于找到了办法，详尽教程可移步[这里](https://www.linkedin.com/pulse/how-download-older-version-app-when-requires-newer-ios-chris-allard)。
 
-其实原理特别简单，先在电脑端获取App从而在iCloud创建App购买记录，然后再通过手机终端调取iCloud上的购买记录，这样既可在手机端自动获取适配App版本。具体操作也很顺手：
+其实原理特别简单，先在电脑端获取App从而在iCloud创建App购买记录，然后再通过手机终端调取iCloud上的购买记录，这样即可在手机端自动获取适配App版本。具体操作也很顺手：
 
 1. 先在iTunes登陆账号，然后在下拉菜单里勾选Apps，然后在顶部菜单Library，Update，App Store三栏里点击App Store，输入App名称，然后下载即可。![](/images/apps.png)
 
