@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "买了根绳"
-categories: 秀恩爱 
+category: 秀恩爱 
 tags: sport
 ---
 

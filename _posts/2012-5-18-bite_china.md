@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "讴歌《舌尖上的中国》"
-categories: 这就是生活
+category: 这就是生活
 tags: food a_bite_of_china
 ---
 
