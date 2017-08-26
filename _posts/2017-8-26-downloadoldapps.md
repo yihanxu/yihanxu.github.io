@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "苹果手机如何下载老版本App？"
 tags: apps update iOS iTunes
-category: 这就是生活
+category: 疑难杂症
 ---
 
 最近在苹果 *App Store* 下载App时，又遇到手机系统版本过低，被告知需要升级后才能下载的问题。这是苹果最恼人的一点，我当年在[配套升级综合征](https://yihanxu.github.io/myoldpajama)里就提过：

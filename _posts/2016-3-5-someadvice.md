@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "一点人生经验"
-category: 寻寻觅觅
+category: 疑难杂症
 ---
 
 ![](http://upload-images.jianshu.io/upload_images/19585-1eede171604c45ea.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

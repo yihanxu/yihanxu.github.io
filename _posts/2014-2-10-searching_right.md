@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "瞎搜什么呢，你问对问题了吗？"
 tags: Q&A
-category: 随笔
+category: 疑难杂症
 ---
 
 遇到问题，你怎么解决？问人还是直接谷歌？
