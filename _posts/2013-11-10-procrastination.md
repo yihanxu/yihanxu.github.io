@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "打败拖延症——千招不如一招毒"
 tags: procrastination
-categories: 黑色幽默 疑难杂症
+category: 疑难杂症
 ---
 
 千招不如一招毒。每次老爸批评我兴趣太广泛，就会说这句。
