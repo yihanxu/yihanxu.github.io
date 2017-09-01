@@ -1,4 +1,5 @@
 ---
+redirect_from: "/female_phd/"
 layout: post
 comments: true
 title: "女博士结婚后还搞不搞科研"

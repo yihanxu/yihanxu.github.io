@@ -1,10 +1,10 @@
 ---
+redirect_from: "/richmond_park/"
 layout: post
 comments: true
 title: "寻鹿伦敦，寻鹿Richmond——踏足伦敦市内的非洲大草原"
 tags: richmond 鹿 伦敦 皇家公园 旅行 里士满公园 英国
 category: 寻寻觅觅
-redirect_from: "/richmond_park/"
 ---
 
 人们常用“屋里的大象”来形容那些显而易见却极容易被人忽略的事物。而Richmond公园，恰恰就是伦敦城内的大象。说起伦敦市内的皇家公园，很多人首先会想到镶嵌在寸土寸金的南肯辛顿的女皇前花园海德公园和女皇后花园格林公园，或是国际日期变更线所在地格林威治公园，但很少有人听说过Richmond公园。
