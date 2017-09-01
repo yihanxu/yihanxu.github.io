@@ -19,8 +19,8 @@ html {
 
 body {
   background: $white;
-  font: 18px/1.4 
-  font-family: helvetica, Noto Serif CJK SC, Source Han Serif SC, Source Han Serif CN, serif;
+  font: 18px/1.4; 
+  font-family: $helvetica, $sourcebody, Noto Serif CJK SC, serif;
   color: $darkGray;
 }
 
@@ -32,7 +32,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $helveticaNeue, $sourcebody;
   color: $darkerGray;
   font-weight: bold;
 
@@ -258,7 +258,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
   }
 
