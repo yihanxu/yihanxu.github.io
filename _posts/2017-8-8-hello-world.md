@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "终于觅得一小块文字自留地——Hello，World!"
-tags: github jekyll hello_world
+tags: github jekyll hello_world 独立博客
 category: 寻寻觅觅
 ---
 

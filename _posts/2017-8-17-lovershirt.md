@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "情侣T恤"
 category: 黑色幽默
-tags: 共度一生
+tags: 共度一生 T恤
 ---
 
 今天一早看到微博上@南瓜sama晒了张情侣T照片，让人不禁莞尔一笑。T恤上的四个字精辟地展现了这对夫妇生活中的某个切面。

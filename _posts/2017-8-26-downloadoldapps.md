@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "苹果手机如何下载老版本App？"
-tags: apps update iOS iTunes
+tags: apps update iOS iTunes 苹果手机系统升级
 category: 疑难杂症
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "打胜仗后，如何全身而退?"
-tags: war victory 
+tags: war victory 打仗 闷声发大财 
 category: 基督信仰
 ---
 

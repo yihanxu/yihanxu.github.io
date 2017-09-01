@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "女博士结婚后还搞不搞科研"
 category: 随笔
-tags: phd marry research
+tags: phd marry research 女博士 结婚 科研
 ---
 
 今天是新学期第一天。前不久的选课周我选了某独立项目课程（类似于毕业论文的小研究项目），执教的是一个搞人机互动的韩国教授。没想到最后发现只有我一个人选了这门课。于是教室也不用预备了，我单独见他就好。
