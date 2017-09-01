@@ -1,5 +1,5 @@
 ---
-redirect_from: "/after_victory/"
+redirect_from: "/female_phd/"
 layout: post
 comments: true
 title: "打胜仗后，如何全身而退?"
