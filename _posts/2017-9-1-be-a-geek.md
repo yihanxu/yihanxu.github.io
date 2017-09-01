@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "我也来过一把极客瘾"
-tags: 字体 思源宋体 Source_Han
+tags: 字体 思源宋体 Source_Han SEO 搜索引擎优化
 category: 随笔
 ---
 
