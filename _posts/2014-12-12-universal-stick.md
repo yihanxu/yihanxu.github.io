@@ -8,7 +8,7 @@ tags: chesterton essay
 
 by G. K. Chesterton
 
-![](http://upload-images.jianshu.io/upload_images/19585-b30a1d55d182b2cd.jpg)
+![万用棍](http://upload-images.jianshu.io/upload_images/19585-b30a1d55d182b2cd.jpg)
 
 ### 1.
 
@@ -62,6 +62,7 @@ by G. K. Chesterton
 
 ### 关于作者
 ![G. K. Chesterton](http://upload-images.jianshu.io/upload_images/19585-4029cf942278473c.jpg)
+
 G.K.切斯特顿（Gilbert Keith Chesterton，1874~1936），英国作家、文学评论家，神学家。一生共著有 80 多本书、数百首诗、200 余篇短篇小说、4000余篇散文论述以及多出戏剧，代表作：Father Brown series, The Heretics, The Orthodoxy,The Everlasting Man。
 
 译者：yihan @ [杰罗姆之友翻译小组](http://i.youku.com/jeromefellows) 
