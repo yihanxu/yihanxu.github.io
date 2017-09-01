@@ -18,8 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+  background: $white;
+  font: 18px/1.4 
+  font-family: helvetica, Noto Serif CJK SC, Source Han Serif SC, Source Han Serif CN, serif;
   color: $darkGray;
 }
 
