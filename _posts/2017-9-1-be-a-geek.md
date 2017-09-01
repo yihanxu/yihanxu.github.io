@@ -27,7 +27,7 @@ category: 随笔
 而对字体颇为挑剔的Yihui兄也偏爱宋体：
 > 衬线字体和非衬线字体二者比起来，我还是更喜欢有棱角的衬线字体，觉得它更有书法美感。
 
-为此，他还专门写了篇[博文](https://yihui.name/cn/2017/04/source-han-serif/)，褒奖Adobe新发布的[思源宋体](https://source.typekit.com/source-han-serif/cn/)。不得不说这古典的设计的确让人赏心悦目，况且还开源，有多种字重可供选择。于是我将全站字体都换成了思源宋体，希望能为宋体在中文世界多争取一席土地。
+为此，他还专门写了篇[博文](https://yihui.name/cn/2017/04/source-han-serif/)，褒奖Adobe新发布的[思源宋体](https://source.typekit.com/source-han-serif/cn/)。不得不说这古典的设计的确让人赏心悦目，况且还开源，有多种字重可供选择。于是我将全站字体都换成了思源宋体，希望能为宋体在中文世界多争取一席之地。
 
 ![思源宋体1](/images/sourcehanserif.png)
 ![思源宋体2](/images/sourcehan.png)
