@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "我也来过一把极客瘾"
 tags: 字体 思源宋体 Source_Han
-category: 流水账 
+category: 随笔
 ---
 
 潜移默化的力亮果然不可小觑。自从把博客搬到Github，我很快就沾染上了那里的极客风气，不鼓捣一下网站参数简直浑身难受。
@@ -27,9 +27,9 @@ category: 流水账
 而对字体颇为挑剔的Yihui兄也偏爱宋体：
 > 衬线字体和非衬线字体二者比起来，我还是更喜欢有棱角的衬线字体，觉得它更有书法美感。
 
-为此，他还专门写了篇[博文](https://yihui.name/cn/2017/04/source-han-serif/)，褒奖Adobe新发布的[思源宋体](https://source.typekit.com/source-han-serif/cn/)。不得不说这古典的设计的确让人赏心悦目，况且还开源，有多种字重可供选择。
+为此，他还专门写了篇[博文](https://yihui.name/cn/2017/04/source-han-serif/)，褒奖Adobe新发布的[思源宋体](https://source.typekit.com/source-han-serif/cn/)。不得不说这古典的设计的确让人赏心悦目，况且还开源，有多种字重可供选择。于是我将全站字体都换成了思源宋体，希望能为宋体在中文世界多争取一席土地。
 
 ![思源宋体1](/images/sourcehanserif.png)
 ![思源宋体2](/images/sourcehan.png)
 
-所以，我也将全站字体都换成了思源宋体，希望能为宋体在中文世界多争取一席土地。极客瘾过完了，就该好好收心啦，可不能光顾着利其器，忘了去善其事。
+好啦，极客瘾过完，就该好好收心啦，可不能光顾着利其器，忘了去善其事。
