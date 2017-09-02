@@ -4,7 +4,7 @@ layout: post
 comments: true
 title: "用数学定制地砖跟抱枕"
 category: 黑色幽默
-tags: Lissajous_curve 数学 五边形镶嵌 pentagonal_tiling
+tags: Lissajouscurve 数学 五边形镶嵌 pentagonaltiling
 ---
 
 先抛出结论——学好数学，不愁装修。
