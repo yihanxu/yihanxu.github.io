@@ -5,9 +5,9 @@ title: "每颗洋葱都是潜力股"
 category: 寻寻觅觅
 ---
 
-![我家小舍后院开的葱花1](http://upload-images.jianshu.io/upload_images/19585-0c80d290e9faed15.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 故事要从我家后院种的小葱开花说起。小葱种子是我公公多年前捎给老张的，小葱是老张前几周搬家后随便撒到后院的。撒种后不多久，小葱便萌芽了；萌芽后不多久，老张就来不及吃了；再过了不多久，小葱就开了花。花瓣是淡紫色的，形似雏菊，花茎光滑而笔直，颇有傲骨。这身姿，让人难以想起它们稀松平常的卑微出身。
+
+![我家小舍后院开的葱花1](http://upload-images.jianshu.io/upload_images/19585-0c80d290e9faed15.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![我家小舍后院开的葱花2](http://upload-images.jianshu.io/upload_images/19585-ca84a777e8e5f497.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
