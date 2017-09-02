@@ -1,4 +1,5 @@
 ---
+redirect_from: "/pingpongandwatermelon"
 layout: post
 comments: true
 title: "乒乓与西瓜"

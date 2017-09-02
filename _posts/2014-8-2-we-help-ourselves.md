@@ -1,4 +1,5 @@
 ---
+redirect_from: "/wehelpourselves"
 layout: post
 comments: true
 title: "到底是我帮你，还是你帮我?"

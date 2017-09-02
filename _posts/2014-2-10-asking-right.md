@@ -1,4 +1,5 @@
 ---
+redirect_from: "/searching_right"
 layout: post
 comments: true
 title: "瞎搜什么呢，你问对问题了吗？"

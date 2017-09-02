@@ -1,4 +1,5 @@
 ---
+redirect_from: "/downloadoldapps"
 layout: post
 comments: true
 title: "苹果手机如何下载老版本App？"

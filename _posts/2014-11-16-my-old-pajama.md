@@ -6,9 +6,9 @@ category: Translation
 tags: chesterton essay
 ---
 
-![Diderot.jpg](http://upload-images.jianshu.io/upload_images/19585-5c26d9a23a8f61d2.jpg)
-
 每次弹出iOS系统升级通告，我总感到厌烦。光下载个升级包就要好几个小时，下载完想安装却发现系统容量不够——得腾出5GB左右才能装新系统。好不容易删来挪去腾出空间升好级，却发现好些App不兼容了，耗电速度也哗啦啦快了不少。
+
+![Diderot.jpg](http://upload-images.jianshu.io/upload_images/19585-5c26d9a23a8f61d2.jpg)
 
 所以，表面上升级离我只有一步之遥，实际上我却要过五关斩六将，期间难免有不少伤亡。不仅软件升级如此，平日里升级家电、添置衣物也是一样的道理。不是说好有高压锅和电饭煲就够了吗，微波炉烤箱蒸锅洗碗机是哪里冒出来的？不是说只买一条连衣裙么，怎么不一会儿就开始挑皮鞋、裤袜、皮带和外套了呢？
 
