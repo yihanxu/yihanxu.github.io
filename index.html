@@ -1,20 +1,18 @@
 ---
 layout: default
 ---
-
-<section class="archive-post-list">
-
-   {% for post in site.posts %}
-       {% assign currentDate = post.date | date: "%Y" %}
-       {% if currentDate != myDate %}
-           {% unless forloop.first %}</ul>{% endunless %}
-           <h1>{{ currentDate }}</h1>
-           <ul>
-           {% assign myDate = currentDate %}
-       {% endif %}
-       <li><a href="{{ post.url }}"><span>{{ post.title }}</span> - {{ post.date | date: "%B %-d, %Y" }}</a></li>
-       {% if forloop.last %}</ul>{% endif %}
-   {% endfor %}
-
-</section>
  
+<div class="posts">
+  {% for post in site.posts %}
+    <article class="post">
+
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
+</div>
