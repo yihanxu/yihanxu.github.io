@@ -1,5 +1,5 @@
 ---
-redirect_from: "/gentle_good_night"
+redirect_from: "/gentle_good_night/"
 layout: post
 comments: true
 title: "你怎甘心离别，就这样遁入暗夜？"
