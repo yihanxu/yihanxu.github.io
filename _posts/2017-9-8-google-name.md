@@ -6,7 +6,7 @@ tags: Google 谷歌
 category: 炒冷饭
 ---
 
-最近在自学[搜索引擎优化](/be-a-geek)，自然免不了要研究Google给网站排名的算法。算法每年都在更新换代，Google也在不断成长(详情可读前Google CEO，Eric Schmidt与Sergey Brin导师Jonathan Rosenberg合著的[How Google Works](https://book.douban.com/subject/26008422/))。Google的技术之牛就不多费口舌了，今天想讲讲它取名的几个轶事。
+最近在自学[搜索引擎优化](/be-a-geek)，自然免不了要研究Google给网站排名的算法。算法每年都在更新换代，Google也在不断成长——详情可读Eric Schmidt（前Google CEO）与Jonathan Rosenberg（Google联合创始人Sergey Brin导师）合著的[How Google Works](https://book.douban.com/subject/26008422/))。Google的技术之牛就不多费口舌了，今天想讲讲它取名的几个轶事。
 
 先说说创始人Larry Page这个名字吧。他最有名的学术贡献是提出了Page Rank，即基于外链网数量及质量的网页排名。Larry Page还没火的时候，Page Rank肯定翻译成网页排名，但如今不知是不是得换成佩奇排名了（科学家发明定理不都是以名字命名的嘛，费马大定理、哥德巴赫猜想、薛定谔的猫）。
 
