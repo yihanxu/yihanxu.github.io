@@ -14,5 +14,5 @@ permalink: /about/
 
 邮件：[yihanxu01#gmail.com](mailto:email@domain.com)
 豆瓣：[yihan爱书橱](http://www.douban.com/people/yummyhue)
-微博：[yihan小脑]（http://weibo.com/bookmarkyihan）
+微博：[yihan小脑](http://weibo.com/bookmarkyihan)
 其他：熟识后自然可知
