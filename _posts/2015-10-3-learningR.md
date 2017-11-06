@@ -38,3 +38,5 @@ tags: R datacamp 统计
 ![证书8, May31, 2016](http://upload-images.jianshu.io/upload_images/19585-33dfb05ad68a408a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![证书9, Oct10, 2017](http://upload-images.jianshu.io/upload_images/19585-7d9d68eb259900dc.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![证书10, Nov6, 2017](http://upload-images.jianshu.io/upload_images/19585-231835bc0f64338b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
