@@ -18,7 +18,7 @@ tags: 感恩 爱 自学 反省 stack_overflow
 
 要感谢的，还有很多人。这篇日志本应没有结尾，因为该感恩的太多。那么，还是以对上帝的感恩作为结尾吧。他是起初，也是末后，一切背后都有他的恩典。
 
-![](images/joshua_ulrich.png)
-![](images/stackoverflow.png)
-![](images/so_badges.png)
-![](images/so_first_answer.png)
+![](/images/joshua_ulrich.png)
+![](/images/stackoverflow.png)
+![](/images/so_badges.png)
+![](/images/so_first_answer.png)
