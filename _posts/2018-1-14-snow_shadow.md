@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "雪影"
-category: 流水账
+category: 这就是生活  
 tags: 伦敦 邱园 Kew garden 冬雪
 ---
 
