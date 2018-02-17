@@ -15,17 +15,17 @@ tags: 语言 通感 莎士比亚
 
 第一次见识这颗多肉是在邱园的沙漠馆。一开始，我只留意到空空如也的稀疏石林，还以为植株都被移走了，后来看到讲解牌上的“living stones”，才在岩缝见窥见一小丛一小丛名叫活石的多肉。这个名字实在是妙趣横生，即点明了植株的外形特征，还道出了其生存策略——靠硬石外形蒙混过关，免得被爱刨根采叶的小动物取食。无须赘言，单单活石二字，就勾勒出了这类多肉憨厚蠢萌的形象。
 
-<img src="/images/livingstone1.jpg" alt = "livingstone 1" style="width: 300px; height:200px">
+<img src="/images/livingstone1.jpg" alt = "livingstone 1" style="width: 600px; height:400px">
 
 我心动不已，连忙去咨询深谙多肉栽培的好友，想向她介绍这一奇种。没想到人家一看到照片就笑说，这不就是“屁股花”嘛，瞧你大惊小怪的。听到“屁股花”这个名字，我简直如遭当头棒喝，脑海里活石悠然自得的清高形象瞬间崩塌。再仔细看看照片，不难看出它中文名的由来也不无道理。外形的确是有些酷似的，只是这个名字除了表达外形特征，对其生态习性却是全然沉默的。
 
-<img src="/images/livingstone2.jpg" alt = "livingstone 1" style="width: 300px; height:200px">
+<img src="/images/livingstone2.jpg" alt = "livingstone 1" style="width: 600px; height:400px">
 
 但无论如何，我想我乐意在院子里栽种几簇活石，却不会有什么兴致捯饬几株屁股花。换个名字，真的不一样。
 
 莫非中外对植株的命名向来差别这么大？我又搜了几个实例，虽然反差没有活石大，但也足以说明不同文化在抽象植株特征时的风格差异。比如说兰花，本意是香草，在中文语境下，意境往往与典雅、素洁相联。而英文 orchid 的词源，则来自希腊文 *orkhis*，即 testicle。也许兰花的萼片外形实在太出彩，让人忍不住遐想连篇吧。
 
-<img src="/images/orchid.jpg" alt = "orchid" style="width: 200px; height:300px">
+<img src="/images/orchid.jpg" alt = "orchid" style="width: 400px; height:600px">
 
 还有几个我就不细说了。比如蒲公英的英文 dandelion 来自法语 *dent de lion*,意为雄狮之牙，与中文语境下的轻飘温柔反差鲜明。我们习以为常的喇叭花（又名牵牛花）的英文叫 morning glory。我想，作为女生，收到一束晨颂花应该比收到一束喇叭花更开心吧。再说说香草之王迷迭香，其英文 rosemary 的词源则来自拉丁语 *ros marinus (dew of the sea)*。中文语境下的迷迭香颇为销魂，而拉丁文语境下的海之晨露则清新脱俗，也许这两国人民在吃烤肉撒上这味香草时，尝起来也不一样吧。
 
