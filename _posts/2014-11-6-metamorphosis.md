@@ -2,8 +2,8 @@
 layout: post
 comments: true
 title: "醒来已成甲壳虫"
-category: Translation
-tags: chesterton essay
+category: 读来读往
+tags: 卡夫卡 变形记
 ---
 
 你可能觉得这是梦。然而在卡夫卡笔下，这是现实。

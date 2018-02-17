@@ -33,6 +33,6 @@ tags: 语言 通感 莎士比亚
 
 我想，玫瑰之名，自然有其魔力。
 
-[^1]: 出自莎士比亚戏剧《罗密欧与朱丽叶》，原文为：What's in a name? That which we call a rose, by any other word, would smell as sweet.
+[^1]: 出自莎士比亚戏剧《罗密欧与朱丽叶》，原文为: What's in a name? That which we call a rose, by any other word, would smell as sweet.
 
 P.S. 如果你也遇到类似的名字反过来影响被指代物的例子，不妨跟我分享一下。
