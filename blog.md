@@ -20,16 +20,16 @@ permalink: /blog/
 </div>
 
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-@ -18,18 +18,3 @@ permalink: /blog/
-    </article>
-  {% endfor %}
-</div>
+<!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+  <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ post.date }}</span>
+  </p>
+  <div class="content">
+    {{ post.content }}
+  </div>
+{% endfor %}
 
 <!-- Pagination links -->
 <div class="pagination">
