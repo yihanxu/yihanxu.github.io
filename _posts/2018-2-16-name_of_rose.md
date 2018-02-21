@@ -25,7 +25,7 @@ tags: 语言 通感 莎士比亚
 
 莫非中外对植株的命名向来差别这么大？我又搜了几个实例，虽然反差没有活石大，但也足以说明不同文化在抽象植株特征时的风格差异。比如说兰花，本意是香草，在中文语境下，意境往往与典雅、素洁相联。而英文 orchid 的词源，则来自希腊文 *orkhis*，即 testicle。也许兰花的萼片外形实在太出彩，让人忍不住遐想连篇吧。
 
-<img src="/images/orchid.jpg" alt = "orchid" style="width: 400px; height:600px">
+<img src="/images/orchid.jpg" alt = "orchid" style="width:50%;">
 
 还有几个我就不细说了。比如蒲公英的英文 dandelion 来自法语 *dent de lion*,意为雄狮之牙，与中文语境下的轻飘温柔反差鲜明。我们习以为常的喇叭花（又名牵牛花）的英文叫 morning glory。我想，作为女生，收到一束晨颂花应该比收到一束喇叭花更开心吧。再说说香草之王迷迭香，其英文 rosemary 的词源则来自拉丁语 *ros marinus (dew of the sea)*。中文语境下的迷迭香颇为销魂，而拉丁文语境下的海之晨露则清新脱俗，也许这两国人民在吃烤肉撒上这味香草时，尝起来也不一样吧。
 
