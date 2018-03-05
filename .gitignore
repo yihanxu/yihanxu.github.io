@@ -1,2 +1,4 @@
 
 *.scss
+*.scssc
+_site/404.html
