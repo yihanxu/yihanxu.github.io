@@ -46,7 +46,7 @@ Hsee在1998年做过一个有趣的实验。他拿着一张冰激凌的图片问
 
 好消息是，由于大部分慢性被动单身者都会高估这类小概率事件，一直心怀期待遇见真爱，选择等待、继续等待，将不少80%匹配者拱手让人。所以如果你是有心人，那么就可以及时止损，趁音乐停止前，找到你视线范围内最合适舞伴共舞一曲。虽然舞伴不是真命天子/女，但多跳几曲也不失乐事一桩嘛。
 
-参考文献：
+#### 参考文献
 Epley, N., & Whitchurch, E. (2008). Mirror, mirror on the wall: Enhancement in self-recognition. Personality and Social Psychology Bulletin, 34(9), 1159–1170. http://doi.org/10.1177/0146167208318601
 
 Hsee, C. K. (1998). Less is better : When low-value options are valued more highly than high-value options. Journal of Behavioral Decision Making, 11, 107–121.
