@@ -3,7 +3,7 @@ redirect_from: "/female_phd/"
 layout: post
 comments: true
 title: "女博士结婚后还搞不搞科研"
-category: 随笔
+category: 学术八卦
 tags: phd marry research 女博士 结婚 科研
 ---
 
