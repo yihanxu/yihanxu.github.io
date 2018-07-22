@@ -1,4 +1,5 @@
 ---
+redirect_from: "/harvesting-wisdow"
 layout: post
 comments: true
 title: "收割智慧"
