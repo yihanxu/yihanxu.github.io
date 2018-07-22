@@ -32,6 +32,6 @@ tags: 农耕 番茄 收获 播种
 
 明年还种，要收割果实，更要收割智慧。
 
-[^1]: Source: <The Wealth of Nations> Book I, Chapter X,Of Wages and Profit in the different Employments of Labour and Stock, part 2.
+[^1]: Source: *The Wealth of Nations*, Book I, Chapter X, Of Wages and Profit in the different Employments of Labour and Stock, Part 2.
 
  
