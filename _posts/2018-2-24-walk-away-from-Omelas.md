@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: 那些离开Omelas的人们——老书评一篇
 category: 读来读往
-tags: Omelas LeGuin AI
+tags: Omelas LeGuin AI 離開omelas的人 离开omelas的人 故事
 ---
 
 *The Ones Who Walk Away from Omelas* 是一部短篇小说。作者 Le Guin 最初在1973发表该作品，74年就获得了雨果短篇文学奖。
