@@ -31,11 +31,11 @@ Here we generate all the categories.
 {% endfor %}
 
 <h1 class="page-title">
-  <a href="/blog">Category</a>
+  <a href="#category-clouds">Category |</a> <a href="#tag-clouds">Tags</a>
 </h1>
 <br/>
 
-<div class="posts">
+<div class="posts" id="category-clouds">
 <p>
 {% for ct in cats %}
 <a href="#{{ ct | slugify }}" class="codinfox-category-mark" style="color:#999;text-decoration: none;"> {{ ct }} </a> &nbsp;&nbsp;
@@ -116,7 +116,7 @@ Here we generate all the tags.
 </h1>
 <br/>
 
-<div class="posts">
+<div class="posts" id="tag-clouds">
 <p>
 {% for tag in tags %}
 <a href="#{{ tag | slugify }}" class="codinfox-tag-mark"> {{ tag }} </a> &nbsp;&nbsp;
