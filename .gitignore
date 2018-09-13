@@ -1,4 +1,8 @@
 
-*.scss
-*.scssc
-_site/404.html
+##Jekyll
+/_site/
+_site/
+_site
+/.sass-cache/
+.sass-cache/
+.sass-cache

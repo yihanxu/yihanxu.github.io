@@ -7,15 +7,15 @@ layout: default
 
   <div class="entry">
     {{ content }}
-  
+
    <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
    </div>
-    
+
    <div class="relatedPosts">
 
-<h4>You May Also Enjoy:</h4> 
-  
+<h4>You May Also Enjoy:</h4>
+
 {% assign maxRelated = 3 %}
 {% assign minCommonTags =  1 %}
 {% assign maxRelatedCounter = 0 %}
@@ -37,7 +37,7 @@ layout: default
 
     {% if sameTagCount >= minCommonTags %}
       <div>
-      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
+      <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} |  {{ post.date | date_to_string }}<!-- {{ commonTags }} --></a></h5>
       </div>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
       {% if maxRelatedCounter >= maxRelated %}
@@ -46,7 +46,7 @@ layout: default
     {% endif %}
 
   {% endfor %}
-  
+
   </div>
 
   <div class = "disqus">
