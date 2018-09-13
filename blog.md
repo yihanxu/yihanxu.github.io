@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 
+title:
 permalink: /blog/
 ---
 
@@ -8,7 +8,7 @@ permalink: /blog/
   {% for post in site.posts %}
     <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} | {{ post.date | date_to_string }}</a></h1>
 
       <div class="entry">
         {{ post.excerpt }}
@@ -18,6 +18,7 @@ permalink: /blog/
     </article>
   {% endfor %}
 </div>
+
 
 
 <!-- This loops through the paginated posts -->
