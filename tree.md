@@ -111,8 +111,9 @@ Here we generate all the tags.
 {% endif %}
 {% endfor %}
 
+
 <h1 class="page-title">
-  <a href="/blog">Tags</a>
+  <a href="#tag-clouds">Tags | </a><a href="#category-clouds">Category</a>
 </h1>
 <br/>
 
