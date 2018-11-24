@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "A few anecdotes of Mr. Feynman and mine"
-category: 学术八卦
+category: UnquenchableSparks
 tags: Richard_Feynman anecdotes physics genius professor
 ---
 
