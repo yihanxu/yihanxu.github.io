@@ -9,7 +9,7 @@ tags: Umberto_Eco great_minds memory essayist literature humour story-teller
 
 When Umberto Eco departed in 2016, he joined the league of my most beloved great minds who now dwell on the other side of the world. That left me alone and deserted.
 
-I envy J. K. Rowling's fans. They always have something to hope for. They used to camp and queue for the latest *Harry Potter*, now they could do the same for the next *Fantastic Beasts*. The story never ends. I also envy Princess Diana and Marilyn Monroe's fans. Though they past away decades ago, the tabloids have never failed to uncover unseen photos and untold stories.
+I envy J. K. Rowling's fans. They always have something to hope for. They used to camp and queue for the latest *Harry Potter*, now they could do the same for the next *Fantastic Beasts*. The story never ends. I also envy Princess Diana and Marilyn Monroe's fans. Though they passed away decades ago, the tabloids have never failed to uncover unseen photos and untold stories.
 
 I am in a direr situation -- manifesting my love for my beloved writers is not easy. I console myself if I could get a copy of those out-of-print books from our university library. I congratulate myself if I could obtain a first print or special edition from the flea markets. When I miss them, I re-read the passages I love, I copy them to my notebooks with pen, I read them aloud to myself. I make an idiot of myself when I shower, ruminating over the witty and touching pieces, now laughing now sobbing.
 
