@@ -1,7 +1,8 @@
 ---
 layout: page
-title: " "
+title: "About Me"
 permalink: /about/
+comments: true
 ---
 
 ### 关于我
