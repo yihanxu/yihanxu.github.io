@@ -8,7 +8,7 @@ tags: Richard_Feynman anecdotes physics genius professor
 
 I visited the ArtScience Museum at Marina Bay Sands this Friday, and met Mr. Richard P. Feynman in quotes, diagrams, and pictures. Before that, I had only met him in words, in his two quasi-auto-biographies *Surely you're joking, Mr. Feynman* and *The pleasure of finding things out*. So although he had died before I was born, I still feel I know him somehow. I am fascinated and shaped by many who I have never met in person. Mr. Feynman is probably one of them.
 
-He was born into a non-practicing Jewish family, and had a creative and careless childhood. He had an compulsive need to solve puzzles since young, which his father cherished and curated. In fact, many fundamental physical laws were gently instilled into casual conversations like this:
+He was born into a non-practicing Jewish family, and had a creative and careless childhood. He had a compulsive need to solve puzzles since young, which his father cherished and curated. In fact, many fundamental physical laws were gently instilled into casual conversations like this:
 
 > Little Richard: Pop, I noticed something: When I pull the wagon the ball rolls to the back of the wagon, and when I’m pulling it along and I suddenly stop, the ball rolls to the front of the wagon. why is that?
 
