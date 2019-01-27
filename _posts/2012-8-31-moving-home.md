@@ -21,6 +21,7 @@ category: 随笔
 你真正需要（need）的物资和工具要比你想带（desire）的少很多很多；而你需要的精神食粮，却总是没带够。如果你不愿意让这件东西陪伴你至少2年，那么请让它继续留在货架上吧。
 
 当年Jacqueline告别工作了3年的华尔街，去非洲时，带的无非是一把吉他和几本诗集。她的原话是：
+
 > “I gave away nearly everything I owned, including the antique furniture my mother had given me. Of course, I kept my guitar and a boxful of poetry books, both of which I deemed essential for saving the world.”
 
 在可以看得见的将来，我仍将是一名“流浪者”。然而即使有一天我安定下来，我仍然只是这个世界的一名匆匆过客，带不来什么也带不走什么。所以，我要做减法，直到箱子里只剩下我生命中最重要的东西。
