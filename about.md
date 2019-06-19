@@ -19,7 +19,7 @@ comments: true
 
 [**G.K. Chesterton**](https://en.wikipedia.org/wiki/G._K._Chesterton) 比我早生115年，是个不折不扣的高产且全能的写手——哲学、小说、历史、诗歌、社论、新闻、护教，每类都写得有模有样，而且大部分都流传至今。我喜欢读他的专著，也喜欢时不时去他的[在线散文集](https://www.chesterton.org/)逛逛, 信手翻看一篇都是惊喜——比如这篇[哲学的复兴](https://www.chesterton.org/the-revival-of-philosophy-why/)。
 
-[C.S. Lewis](http://www.studynovels.com/Book/BookListByAuthor?author=C.S.%20Lewis) 生于1898年，1965年就离开这个世界了，但我觉得他还一直在我身边。他对我的影响似清风般不着痕迹，却又深入骨髓。该怎么描述他呢？他扮演的角色实在太多了：祖父、父亲、哥哥、朋友、教授…… 启发我、挑战我、安抚我、激励我…… 有时会羞于承认他对我的影响，但回头看没遇见他之前自己写的文章，就明白那烙印是抹不去的呀。
+[**C.S. Lewis**](http://www.studynovels.com/Book/BookListByAuthor?author=C.S.%20Lewis) 生于1898年，1965年就离开这个世界了，但我觉得他还一直在我身边。他对我的影响似清风般不着痕迹，却又深入骨髓。该怎么描述他呢？他扮演的角色实在太多了：祖父、父亲、哥哥、朋友、教授…… 启发我、挑战我、安抚我、激励我…… 有时会羞于承认他对我的影响，但回头看没遇见他之前自己写的文章，就明白那烙印是抹不去的呀。
 
 
 未完待续。。。
