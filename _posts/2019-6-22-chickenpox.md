@@ -40,7 +40,7 @@ category: 随笔
 > 
 > Me: Hah? But I've got measles before, didn't it help boost my immune system against chickenpox?
 > 
-> Dr: Hmm... not likely. But unless you're infected with an unknown disease, otherwise I'm gonna treat it as if you got chickenpox
+> Dr: Hmm... not likely. But unless you're infected with an unknown disease, I'm gonna treat it as if you got chickenpox
 >
 > Me: Fine... Would it leave scars on my face?!
 >
