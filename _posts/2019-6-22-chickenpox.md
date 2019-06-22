@@ -6,7 +6,7 @@ tags: 水痘 青春
 category: 随笔
 ---
 
-我拿着药剂师从儿童专用的货架上给我取了CoolMousse跟Piriton，深感哭笑不得——一个快三十的人得了水痘。
+我拿着药剂师从儿童专用货架上给我取的CoolMousse跟Piriton，深感哭笑不得——一个快三十的人得了水痘。
 
 ![Cool Mousse for Children with Chickenpox](/images/coolmousse.jpg)
 
@@ -32,25 +32,27 @@ category: 随笔
 >
 > Me: I had the impulse to when I looked at myself in the mirror, but mostly I could control myself
 > 
-> Dr: Ha, have you got chickenpox before?
+> Dr: Ha, let me look at the rash at your tummy... Hmm... have you got chickenpox before?
 > 
-> Me: Eh... I have not, and I‘ve always assumed I had dodged it somehow
+> Me: Eh... I have not, and I've always assumed that I had dodged it somehow
 > 
 > Dr: Yeah, chickenpox is very rare among adults, but it looks like you've got it now
 > 
 > Me: Hah? But I've got measles before, didn't it help boost my immune system against chickenpox?
 > 
-> Dr: Hmm... Unless you're infected with an unknown disease, otherwise I'm gonna treat it as if you got chickenpox
+> Dr: Hmm... not likely. But unless you're infected with an unknown disease, otherwise I'm gonna treat it as if you got chickenpox
 >
 > Me: Fine... Would it leave scars on my face?!
 >
-> Dr： No worries, the blisters come and go around 10 days, meanwhile you can eat as normal, just take extra amount of fluid
+> Dr： No worries, the blisters come and go around 10 days, meanwhile you can eat as normal, just remember to take extra amount of fluid
 >
 > Me: Hmm, it looks like the whole point of chickenpox is just to exercise my immune system a bit?
 >
 > Dr: Haha, exactly, but it's an infectious virus, so you may need to work from home for a while
 >
-> Me: No problem with that, I'll confine myself since I'm writing my thesis anyway
+> Me: No problem with that, I'll confine myself at home since I'm writing my thesis anyway
+>
+> Dr: Sounds great, take care!
 
 确诊完，买了药，回了家。我刚准备抡起袖管跟老张平摊家务，结果又赶上这么完美的借口可以暂时再当几天甩手掌柜，我忍不住偷笑起来。不过还好只是毁容一时，不然我就算能一辈子不做家务也不敢长水痘啊！ 
 
