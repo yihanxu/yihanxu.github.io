@@ -21,7 +21,7 @@ tags:
 
 以下是真相若干：
 ![newlook1](/images/newlook1.jpg)
-![newlook2](/images/newlook2.jpg)
+![newlook2](/images/newlook2.jpeg)
 ![newlook2](/images/newlook3.jpg)
 
 
