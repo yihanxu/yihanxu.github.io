@@ -20,8 +20,8 @@ tags:
 告别休闲风只是一个开始，但牵一发而动全身，许多改变都是自此开始的，先不赘述啦。今年的职场生涯，我已基本入戏。至于入戏程度的深浅与成果，且看下回分晓。
 
 以下是真相若干：
-![newlook1](/images/newlook1.jpg)
-![newlook2](/images/newlook2.jpeg)
-![newlook2](/images/newlook3.jpg)
+![newlook3](/images/newlook3.jpg)
+![newlook1](/images/newlook1.png)
+![newlook2](/images/newlook2.png)
 
 
