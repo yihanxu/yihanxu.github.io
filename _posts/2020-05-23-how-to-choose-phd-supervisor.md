@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "如何寻找契合的博士导师?"
 category: 学术八卦
-tags:  
+tags: 导师 大牛 契合 成长 
 
 ---
 
