@@ -47,6 +47,14 @@ comments: true
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -60,8 +68,9 @@ comments: true
 <!--End mc_embed_signup-->
 
 **‌** 联系方式
+
 邮件：[yihanxu01#gmail.com](mailto:email@domain.com) <br>
-推特: [yihanxu](http://twitter.com/yihanxu)
+推特: [yihanxu](http://twitter.com/yihanxu) <br>
 豆瓣：[yihan爱书橱](http://www.douban.com/people/yummyhue) <br>
 微博：[yihan小脑](http://weibo.com/bookmarkyihan) <br>
-其他：熟识后自然可知
+其他：熟识后自然可知 <br>
