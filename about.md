@@ -36,7 +36,6 @@ comments: true
 微博：[yihan小脑](http://weibo.com/bookmarkyihan) <br>
 其他：熟识后自然可知 <br>
 
-### 订阅：
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -47,15 +46,15 @@ comments: true
 <div id="mc_embed_signup">
 <form action="https://github.us10.list-manage.com/subscribe/post?u=c56cd276032430a7bae15da43&amp;id=84d5519e2c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Subscribe</h2>
+	<h2>Subscribe | 订阅 </h2>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email Address | 电邮地址  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
+	<label for="mce-FNAME">First Name | 名号 </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 	<div id="mce-responses" class="clear">
