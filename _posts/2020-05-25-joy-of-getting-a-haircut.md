@@ -6,7 +6,10 @@ tags: lockdown social-distancing 理发 haircut
 category: 这就是生活
 ---
 
-距离我上次理发已经过了快三个月。这个间隔已超过了维持我短发轻盈感以及保持刘海不遮眼的极限。伦敦虽然解封了，但理发店仍然不知道什么时候才能开，我只能继续翘首以待。大洋彼岸的密歇根同胞为了让理发店重新开门[不惜上街游行](https://www.newsweek.com/michigan-hair-stylists-plan-quarantine-protest-show-people-we-are-not-unintelligent-can-cut-1504553)，而新加坡同胞呢，理发店刚刚重开[门前就立刻大排长龙](https://www.straitstimes.com/singapore/hair-salons-get-ready-for-expected-influx-of-customers)。看来，怀念理发的远不止我一个人。
+距离我上次理发已经过了快三个月。这个间隔已超过了维持我短发轻盈感以及保持刘海不遮眼的极限。伦敦虽然解封了，但理发店仍然不知道什么时候才能开，我只能继续翘首以待。大洋彼岸的密歇根同胞为了让理发店重新开门[不惜上街游行](https://www.newsweek.com/michigan-hair-stylists-plan-quarantine-protest-show-people-we-are-not-unintelligent-can-cut-1504553)，而新加坡同胞呢，理发店刚刚重新开张，[门前就立刻大排长龙](https://www.straitstimes.com/singapore/hair-salons-get-ready-for-expected-influx-of-customers)。而腐国的问卷里，理发更是排在人们最不愿意放弃之事的榜首。
+![UK haircut survey](/images/uk_haircut_survey.jpg)
+
+看来，怀念理发的远不止我一个人。
 
 为什么我会怀念理发呢？按理说理发于我并不是一个迫切的民生问题。伦敦现在的天气就算长发披肩也不会觉得热，刘海的问题发箍也能轻松解决，虽然发型没有之前美，但视频会议我也不常开摄像头。我怀念理发，是因为这背后的乐趣。
 
