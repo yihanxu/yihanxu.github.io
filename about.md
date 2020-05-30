@@ -29,6 +29,13 @@ comments: true
 
 未完待续。。。
 
+### 联系方式
+邮件：[yihanxu01#gmail.com](mailto:email@domain.com) <br>
+推特：[yihanxu](http://twitter.com/yihanxu) <br>
+豆瓣：[yihan爱书橱](http://www.douban.com/people/yummyhue) <br>
+微博：[yihan小脑](http://weibo.com/bookmarkyihan) <br>
+其他：熟识后自然可知 <br>
+
 ### 订阅：
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -51,10 +58,6 @@ comments: true
 	<label for="mce-FNAME">First Name </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
-<div class="mc-field-group">
-	<label for="mce-LNAME">Last Name </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
@@ -67,9 +70,4 @@ comments: true
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-### 联系方式
-邮件：[yihanxu01#gmail.com](mailto:email@domain.com) <br>
-推特: [yihanxu](http://twitter.com/yihanxu) <br>
-豆瓣：[yihan爱书橱](http://www.douban.com/people/yummyhue) <br>
-微博：[yihan小脑](http://weibo.com/bookmarkyihan) <br>
-其他：熟识后自然可知 <br>
+
