@@ -28,7 +28,7 @@ category: 学术八卦
 
 ![Logarithm table](/images/benford_illustration4.gif)
 
-Newcomb就发现对数表前几页很快就被翻烂，后几页却崭新得很,于是乎他就用两页纸记录了这个生活小观察, 并发表在 American Journal of Mathematics 上（1881年），他的原文如下：
+Newcomb就发现对数表前几页及前几行很快就被翻烂摸脏，后面却崭新得很,于是乎他就用两页纸记录了这个生活小观察, 并发表在 American Journal of Mathematics 上（1881年），他的原文如下：
 > That the ten digits do not occur with equal frequency must be evident to any one making much use of logarithmic tables, and noticing how much faster the first ones wear out than the last ones
 
 论文中还简单列举了下1~9出现在首位及第二位的概率。
