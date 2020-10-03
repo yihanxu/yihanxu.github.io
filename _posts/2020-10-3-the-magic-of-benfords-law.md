@@ -26,7 +26,7 @@ category: 学术八卦
 
 关于 Benford's law, 其实还有几个趣味八卦（[感谢Andrie Jamain (2001)的论文](https://wwwf.imperial.ac.uk/~nadams/classificationgroup/Benfords-Law.pdf))。这个定律虽然以物理学家 Benford 命名，但最早发现这个规律的人是 Newcomb。当时计算机计算器都没有发明出来，连顶级数学家，想算对数也只能查表。这个表00后可能见都没见过，不过印象中我用过的数学课本还是有这样的附录的。
 
-![Logarithm table](/images/benford_illustration4.png)
+![Logarithm table](/images/benford_illustration4.gif)
 
 Newcomb就发现对数表前几页很快就被翻烂，后几页却崭新得很,于是乎他就用两页纸记录了这个生活小观察, 并发表在 American Journal of Mathematics 上（1881年），他的原文如下：
 > That the ten digits do not occur with equal frequency must be evident to any one making much use of logarithmic tables, and noticing how much faster the first ones wear out than the last ones
