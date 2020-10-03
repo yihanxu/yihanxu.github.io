@@ -38,7 +38,7 @@ Newcomb就发现对数表前几页及前几行很快就被翻烂摸脏，后面�
 
 ![Benford table](/images/benford_illustration5.png)
  
-回顾完对数表，我还有个小发现，那就是对一个数取对数，得到的结果里首数叫characteristic，尾数叫mantisa（比如说Log11 = 1.04,首数是1，尾数是0.04）。显然，首数比尾数重要得多，于是characteristic也就有了特征这个引申义。
+回顾完对数表，我还有个小发现，那就是对一个数取对数，得到的结果里首数叫characteristic，尾数叫mantissa（比如说Log11 = 1.04,首数是1，尾数是0.04）。显然，首数比尾数重要得多，于是characteristic也就有了特征这个引申义。
 
 看来很多有趣的定律就躺在青天白日之下，以后我要继续挖掘！
  
