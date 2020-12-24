@@ -20,8 +20,7 @@ category: 学术八卦
 
 ### 如何报名三期临床
 很多朋友可能最想报名已经获批的Pfizer与Moderna，可惜这俩佼佼者的志愿者早就招满了。不过仍在招募的疫苗三期临床实验依然非常多，如果你在英国，主要报名渠道有两个：[National Health Service (NHS)](https://www.nhs.uk/conditions/coronavirus-covid-19/research/coronavirus-vaccine-research/) 或是 [National Institute for Health Research (NIHR)](https://bepartofresearch.nihr.ac.uk/vaccine-studies/)。进入界面后，选择你喜欢的疫苗类型点击sign up填写一下基本的个人资料即可。<br>
-![vaccine signup NHS](/images/vaccine_signup1.jpg)
-![vaccine signup NIHR](/images/vaccine_signup2.jpg)
+![vaccine signup](/images/vaccine_signup.jpg)
 
 虽说理论上人人都可以报名，但志愿者如果身体较为健康，没有严重的疫苗过敏史，没有参与过别的疫苗三期，家离三期临床试验点较近，那么优先级也会相对较高。
 
