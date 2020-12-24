@@ -21,14 +21,14 @@ category: 学术八卦
 能进入三期临床就说名这些疫苗在二期临床中已有足够证据显示这三类疫苗都能有效激发人体免疫系统，产生对抗新冠病毒的抗体。但我们依然需要三期临床的结果来进一步确定疫苗的安全性以及研究哪些人最适合哪些类型的疫苗。如果各类的疫苗安全性有效性都近似，那也是好消息，我们就可以选用最容易储藏运输的疫苗啦。
 
 ### 如何报名三期临床
-很多朋友可能最想报名已经获批的Pfizer与Moderna，可惜这俩佼佼者的志愿者早就招满了。不过仍在招募的疫苗三期临床实验依然非常多，如果你在英国，主要报名渠道有两个：[National Health Service (NHS)](https://www.nhs.uk/conditions/coronavirus-covid-19/research/coronavirus-vaccine-research/) 或是 [National Institute for Health Research (NIHR)](https://bepartofresearch.nihr.ac.uk/vaccine-studies/)。进入界面后，选择你喜欢的疫苗类型点击sign up填写一下基本的个人资料即可。<br>
+很多朋友可能最想报名已经获批的Pfizer与Moderna，可惜这俩佼佼者的志愿者早就招满了。不过仍在招募的疫苗三期临床实验依然非常多，如果你在英国，主要报名渠道有两个：[National Health Service (NHS)](https://www.nhs.uk/conditions/coronavirus-covid-19/research/coronavirus-vaccine-research/) 或是 [National Institute for Health Research (NIHR)](https://bepartofresearch.nihr.ac.uk/vaccine-studies/)。进入界面后，选择你喜欢的疫苗类型点击sign up填写一下基本的个人资料即可。目前Valneva还有PROVENT都还在找志愿者。<br>
 
 ![vaccine signup](/images/vaccine_signup.jpg)
 
 虽说理论上人人都可以报名，但志愿者如果身体较为健康，没有严重的疫苗过敏史，没有参与过别的疫苗三期，家离三期临床试验点较近，那么优先级也会相对较高。
 
 ### 我的三期志愿体验
-我大概11月份就报名了，当时有朋友跟我说她收到[Novavax](https://covid19trial-uk.com/)三期的邀请，问我要不要也参与看看。于是我跟老张就顺手一起报了名，也没想着多报名些别的分散风险。可惜Novavax报名太火爆，两周后就收到了报名截止的通知。不过人家很热心的介绍我参与Janssen疫苗（强生集团旗下的药厂）的三期。这次我就没报那么大希望啦，没想到很快帝国理工医学院的医生就跟我联系，给我发了邀请，顺带还给发了28页的patient information sheet，上面关于疫苗的作用原理，风险收益，时间表啥的都写得清清楚楚。我问能不能安排老张跟我同一时间段去打，人家也爽快答应。
+我大概11月份就报名了，当时有朋友跟我说她收到[Novavax](https://covid19trial-uk.com/)三期的邀请，问我要不要也参与看看。于是我跟老张就顺手一起报了名，也没想着多报名些别的分散风险。可惜Novavax报名太火爆，两周后就收到了报名截止的通知。不过人家很热心的介绍我参与[Janssen疫苗](https://gb.ensemblestudy.com/)（强生集团旗下的药厂）的三期。这次我就没报那么大希望啦，没想到很快帝国理工医学院的医生就跟我联系，给我发了邀请，顺带还给发了28页的patient information sheet，上面关于疫苗的作用原理，风险收益，时间表啥的都写得清清楚楚。我问能不能安排老张跟我同一时间段去打，人家也爽快答应（目前Janssen三期还在招招募中：世界招募3万，英国6千，伦敦2千）。
 
 于是乎2020年12月21日，我跟老张一大早就出发啦。过程也算蛮顺利，主要步骤为：
 - 重新确认过敏史以及最近的健康状况
