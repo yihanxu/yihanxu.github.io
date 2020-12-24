@@ -21,7 +21,7 @@ category: 学术八卦
 能进入三期临床就说名这些疫苗在二期临床中已有足够证据显示这三类疫苗都能有效激发人体免疫系统，产生对抗新冠病毒的抗体。但我们依然需要三期临床的结果来进一步确定疫苗的安全性以及研究哪些人最适合哪些类型的疫苗。如果各类的疫苗安全性有效性都近似，那也是好消息，我们就可以选用最容易储藏运输的疫苗啦。
 
 ### 如何报名三期临床
-很多朋友可能最想报名已经获批的Pfizer与Moderna，可惜这俩佼佼者的志愿者早就招满了。不过仍在招募的疫苗三期临床实验依然非常多，如果你在英国，主要报名渠道有两个：[National Health Service (NHS)](https://www.nhs.uk/conditions/coronavirus-covid-19/research/coronavirus-vaccine-research/) 或是 [National Institute for Health Research (NIHR)](https://bepartofresearch.nihr.ac.uk/vaccine-studies/)。进入界面后，选择你喜欢的疫苗类型点击sign up填写一下基本的个人资料即可。目前Valneva还有PROVENT都还在找志愿者。<br>
+很多朋友可能最想报名已经获批的Pfizer与Moderna，可惜这俩佼佼者的志愿者早就招满了。不过仍在招募的疫苗三期临床实验依然非常多，如果你在英国，主要报名渠道有两个：[National Health Service (NHS)](https://www.nhs.uk/conditions/coronavirus-covid-19/research/coronavirus-vaccine-research/) 或是 [National Institute for Health Research (NIHR)](https://bepartofresearch.nihr.ac.uk/vaccine-studies/)。进入界面后，选择你喜欢的疫苗类型点击sign up填写一下基本的个人资料即可。目前Valneva还有PROVENT都还在招志愿者。<br>
 
 ![vaccine signup](/images/vaccine_signup.jpg)
 
