@@ -23,11 +23,14 @@ category: 这就是生活
 ![fede ring2](/images/fede_ring_2.jpg)
 
 再来介绍一枚16世纪来自德国的[订婚戒指](http://collections.vam.ac.uk/item/O72588/ring-unknown/)。这枚戒指正面看跟以上两枚戒指颇为相像，都是双手捧心的设计。感觉唯一的不同就是材质从白银换成了黄金，且加上了红宝石、钻石、珐琅等元素。
+
 ![Germany ring1](/images/germany_ring1.jpg)
 
 然而一旦从侧面看，就会发现其中暗藏的绝妙玄机。正面看觉得这只是一枚戒指，而从侧面就能看到转轴——其实这枚戒指是由三枚叠搭在一起的。展开后就能看到左手、右手、爱心各自镶嵌在一枚戒指上。
+
 ![Germany ring2](/images/germany_ring2.jpg)
 ![Germany ring3](/images/germany_ring3.jpg)
+
 而打开后，戒指上还刻着几句德语，翻译如下：
 中间戒指
 MEIN. AN.FANCK. VND. ENDE. 
@@ -42,9 +45,11 @@ KEIN. MENSCH. SCHEIDEN
 看完这枚戒指我就震惊了。我原本以为Louis Cartier1924设计的Trinity戒指是个从零到一的创新，没想到类似的设计300年前就被德国工匠玩儿转了。真是应了乔布斯~~毕加索~~的那句话——good artists copy; great artists steal。
 
 最后来介绍一个19世纪30年代来自那不勒斯的[订婚戒指](http://collections.vam.ac.uk/item/O228374/ring-unknown/)。这枚戒指没了双手的元素，但爱心的元素仍在，且从一颗变成了两颗。心心相印中间还有一枚钥匙，看来爱人之间没啥秘密，一把钥匙能同时打开两人的心房。
+
 ![heart_ring1](/images/heart_ring1.jpg)  
 
 下面这枚也是类似的款式，不同点在于心的造型更加立体灵动，钥匙抽象化更高，而且戒指主体由五枚细环重叠而成。虽然这枚戒指已有200多年的历史，但它的设计元素如今依然流行，这也说明经典美是跨越时代，永不过时的呀！
+
 ![heart_ring2](/images/heart_ring2.jpg)  
 
 写到这里，不禁想恭喜未婚的姐妹们——你们还有机会好好选，且珍惜！ 
