@@ -27,16 +27,14 @@ category: 这就是生活
 
 ![Germany ring](/images/germany_ring.png)
 
-而打开后，戒指上还刻着几句德语，翻译如下：
-中间戒指 <br>
-MEIN. AN.FANCK. VND. ENDE. <br>
-英译：my beginning and end；中译：我的始与终 <br>
-左边戒指 <br>
-WAS. GOTT. ZVSAMEN. FVGET. SOLL. <br>
-英译：what God has joined together should；中译：上帝所联结的 <br>
-左边戒指 <br>
-KEIN. MENSCH. SCHEIDEN <br>
-英译：no man put asunder；中译：任何人不能拆散 <br>
+而打开后，戒指上还刻着几句德语，翻译如下：<br>
+
+- 中间戒指 — MEIN. AN.FANCK. VND. ENDE.  
+  英译：my beginning and end；中译：我的始与终  \
+- 左边戒指 — WAS. GOTT. ZVSAMEN. FVGET. SOLL. 
+  英译：what God has joined together should；中译：上帝所联结的 
+- 左边戒指 — KEIN. MENSCH. SCHEIDEN  
+  英译：no man put asunder；中译：任何人不能拆散 
 
 看完这枚戒指我就震惊了。我原本以为Louis Cartier1924设计的Trinity戒指是个从零到一的创新，没想到类似的设计300年前就被德国工匠玩儿转了。真是应了乔布斯~~毕加索~~的那句话——good artists copy; great artists steal。
 
