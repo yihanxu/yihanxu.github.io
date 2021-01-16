@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "几百年前的订婚戒指长什么样子？"
-tags: medieval rings 钻戒 婚戒
+tags: medieval rings 钻戒 婚戒 jewellery
 category: 这就是生活
 ---
 
