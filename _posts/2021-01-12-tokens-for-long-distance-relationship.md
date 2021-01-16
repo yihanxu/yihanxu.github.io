@@ -15,7 +15,7 @@ category: 这就是生活
 先来看看这枚[locket挂坠](https://collections.vam.ac.uk/item/O74186/locket-unknown/)，它来自英国，大约产于1840年。跟[上篇文章](https://movie.douban.com/subject/33405285/)提到同时期婚戒的设计一样，它同样有爱心与钥匙这两个元素，寓意是打开爱人的心门。Locket里面一般会珍藏爱人的画像或一缕发丝，以此来遥寄相思。这也是locket名字的由来，因为lock除了锁以外，还有发丝的意思。
 ![heart key](/images/heart_key.png)
 
-Locket正面镶嵌有颜色不一的宝石，开始我完全没有领会这些宝石代表什么，直到我读博物馆解说词，才发现宝石的摆法也算一种语言。这六颗宝石从左到右依次是：
+Locket正面镶嵌有颜色不一的宝石，既不对称，也没有规律。直到我读博物馆解说词，才发现宝石的摆法其实也是一种语言。这六颗宝石从左到右依次是：
 - Ruby (红宝石）
 - Emerald （绿宝石）
 - Garnet(石榴石)
