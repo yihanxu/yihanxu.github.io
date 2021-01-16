@@ -43,7 +43,7 @@ Locket正面镶嵌有颜色不一的宝石，既不对称，也没有规律。�
 
 悼念首饰常有AEI这三个字母。AEI分别代表Amity，Eternity，Infinity，意为无限友爱，直到永远。左图的[戒指](http://collections.vam.ac.uk/item/O123422/mourning-ring-unknown/)正面刻着AEI这三个字母，它们镶嵌在黑色珐琅材质上（悼念常用材质）。而右图的locket则更加隐晦，可以看出两条鱼代表E，而中间穿插有造型像松枝的A跟像箭的I。
 
-![EMI](/images/emi.png)
+![EMI](/images/aei.png)
 
 如果简单的戒指与locket还不足以表现缅怀之情，那还可以加入更多元素。下面这条[来自法国产于1860年的手链](https://collections.vam.ac.uk/item/O76488/bracelet-unknown/)就有更丰富的意象。这条手链吊着五个迷你locket，每个里面都可以放爱人的画像或发丝。最前面的是十字架、船锚、爱心这三个元素，象征基督教信仰中的信、望、爱。剩下A跟星星我倒不大清楚具体是什么意思(总之肯定不是新加坡A-star这个奖学金项目）。A也许是Amity或Anna的简称，星星可以表示你是我天空中的启明星？真正的意思估计只有问这串手链的第一位拥有者才能知道啦。
 
