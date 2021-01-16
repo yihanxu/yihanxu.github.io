@@ -39,7 +39,7 @@ Locket正面镶嵌有颜色不一的宝石，既不对称，也没有规律。�
 毕竟维多利亚女王的肖像大家多少还是见过的，因为日常生活使用的硬币就有她的头像呀！
 ![Queen Victoria](/images/queen_victoria.png)
 
-有时，恋人仅仅是一时半会儿见不到对方，但有时却是这辈子都无法再见。悼念首饰（mourning jewellery)就应运而生了。
+有的恋人仅仅是一时半会儿见不到对方，但有的却是这辈子都无法再见。悼念首饰（mourning jewellery)由此应运而生。
 
 悼念首饰常有AEI这三个字母。AEI分别代表Amity，Eternity，Infinity，意为无限友爱，直到永远。左图的[戒指](http://collections.vam.ac.uk/item/O123422/mourning-ring-unknown/)正面刻着AEI这三个字母，它们镶嵌在黑色珐琅材质上（悼念常用材质）。而右图的locket则更加隐晦，可以看出两条鱼代表E，而中间穿插有造型像松枝的A跟像箭的I。
 
