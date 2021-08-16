@@ -13,9 +13,10 @@ category: 寻寻觅觅
 看得见摸得着的美最显而易见的例子就是花草啦。前两年我都种了[番茄](https://yihanxu.github.io/harvesting-wisdom/)，尝到了鲜爽的维C。虽然我也想像yihui兄那样做上一桌自家产的菜[一饱口福](https://yihui.org/cn/2021/06/garden/)，今年的我却格外想一饱眼福，于是就把苗圃让给了薰衣草、David Austin 玫瑰、百合、芍药、绣球、百子莲、金银花、十字茉莉…… 我跟老张分工合作——他浇水施肥除草赶蜗牛，我剪枝插花换水，虽然每种花的花期都不算长，但它们花期刚好不同步，花开得此起彼伏，家里的花瓶从五月到现在几乎都没闲着。每天被鲜花内拥外抱，大大地花心了一把，哈哈哈。
 
 ![home_blossom1](/images/home_blossom.png)
-![home_blossom2](/images/home_blossom2.png)
 
 不过花叶在繁茂，花期也终究要过去，虽说我做了好几包干花想留住它们的味道，但鲜花终究不能陪我入秋过冬。这时候，我就需要另一种能陪伴我更久的看得见摸得着的美啦！
+
+![home_blossom2](/images/home_blossom2.png)
 
 故事还要从封城期间，我在家附近到处window shopping的经历说起。虽然封城期间只有超市跟饭店能正常营业，但许多店家依然隔三差五就更换橱窗里的展示品，因此逛街就变相成了逛博物馆——啥都能看，啥都不能买。最让我印象深刻的是两家画廊：[Maze]([https://mazegallery.london/exhibitions/)
 跟[BARNES & HENLEY](https://barnesfineartgallery.co.uk/)。每次路过都被里面挂着的三两画作深深震撼。
