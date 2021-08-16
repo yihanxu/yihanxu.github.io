@@ -32,7 +32,7 @@ category: 寻寻觅觅
 
 ![zhang](/images/inspecting_zhang.png)
 ![turquoise](/images/turquoise.png)
-![into the blue](/images/into_the_blue.png)
+![into the blue](/images/into_the_blue.jpg)
 
 封城给我带来的另一个改变，就是让我从Kindle书重新回归纸质书。Zoom跟Team把同事的脸都压扁，把所有人的脑袋都整整齐齐摁在屏幕上，而默认的屏幕只能显示16个人，之前时常看见的不少同事就这样被隐藏到了某个角落，似乎一年多都没见一面。这也算一定程度的物化人了吧。由此及彼，Kindle就像一座窗户只有纸片大小的城堡，虽容纳得了一海的佳作，但也让无数经典埋进内存条深处，无人读取。我还是让书本们找回存在感，让它们时不时能闯进我的视线，提醒我去翻阅比较好。
 
