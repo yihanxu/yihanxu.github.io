@@ -18,7 +18,7 @@ category: 寻寻觅觅
 
 ![home_blossom2](/images/home_blossom2.png)
 
-故事还要从封城期间，我在家附近到处window shopping的经历说起。虽然封城期间只有超市跟饭店能正常营业，但许多店家依然隔三差五就更换橱窗里的展示品，因此逛街就变相成了逛博物馆——啥都能看，啥都不能买。最让我印象深刻的是两家画廊：[Maze]([https://mazegallery.london/exhibitions/)
+故事还要从封城期间，我在家附近到处window shopping的经历说起。虽然封城期间只有超市跟饭店能正常营业，但许多店家依然隔三差五就更换橱窗里的展示品，因此逛街就变相成了逛博物馆——啥都能看，啥都不能买。最让我印象深刻的是两家画廊：[Maze](https://mazegallery.london/exhibitions/)
 跟 [Barnes & Henley](https://barnesfineartgallery.co.uk/)。每次路过，我都被橱窗里挂着的三两画作深深震撼。震撼的不在于画得多惟妙惟肖，而在于那种瞬间被卷入另一种时空的体验。任何一种媒介（不限于书、看影、短视频）都能带人穿梭时空，但好的画作能带人入梦，或还原放大人们经常忽略的现实。
 
 ![Paul Bennet](/images/paul.jpeg)
