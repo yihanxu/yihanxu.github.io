@@ -19,7 +19,7 @@ category: 寻寻觅觅
 ![home_blossom2](/images/home_blossom2.png)
 
 故事还要从封城期间，我在家附近到处window shopping的经历说起。虽然封城期间只有超市跟饭店能正常营业，但许多店家依然隔三差五就更换橱窗里的展示品，因此逛街就变相成了逛博物馆——啥都能看，啥都不能买。最让我印象深刻的是两家画廊：[Maze]([https://mazegallery.london/exhibitions/)
-跟[BARNES & HENLEY](https://barnesfineartgallery.co.uk/)。每次路过都被里面挂着的三两画作深深震撼。
+跟[Barnes & Henley](https://barnesfineartgallery.co.uk/)。每次路过，我都被橱窗里挂着的三两画作深深震撼。
 
 ![Paul Bennet](/images/paul.jpeg)
 ![Golsa Golchini](/images/golsa_surfing.jpeg)
