@@ -47,6 +47,6 @@ category: 随笔
  
 > For as the body is one and has many members, but all the members of that one body, being many, are one body, so also is Christ... For in fact the body is not one member but many. If the foot should say, “Because I am not a hand, I am not of the body,” is it therefore not of the body? And if the ear should say, “Because I am not an eye, I am not of the body,” is it therefore not of the body? If the whole body were an eye, where would be the hearing? If the whole were hearing, where would be the smelling? But now God has set the members, each one of them, in the body just as He pleased. And if they were all one member, where would the body be? — Corinthians1 12:12-19  
  
- 从这个角度讲，眼睛叫眼睛，鼻子叫鼻子，脚指头叫脚指头，一辈子都不用改名也很好。这种来自祖先的身份认同感可能比靠用外在参照物搭建起来的身份感要稳固踏实得多吧。\
+ 从这个角度讲，眼睛叫眼睛，鼻子叫鼻子，脚指头叫脚指头，一辈子都不用改名也很好。这种来自祖先的身份认同感可能比靠用外在参照物搭建起来的身份感要稳固踏实得多吧。
 
 写着写着，发现开篇嚷嚷着表达欲萎缩的我居然快码了两千字啦。先洗洗睡，下篇提纲已经列好，回头聊！
