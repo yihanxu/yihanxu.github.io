@@ -12,7 +12,7 @@ category: 随笔
 - 是因为我太懒了吗？不是，回家后趁着假期还没结束，我不仅读了好几本有关中东的书，看了[《阿拉伯的劳伦斯》](https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film))，还上完了Coursera的[《现代中东崛起史》](https://www.coursera.org/learn/modern-middle-east-1/home/welcome)。
 - 是因为我缺乏素材吗？不是，且不论迪拜本身就有很多看点，单单参展世博的就有192个国家。就算十个国家里只有一个国家有故事可讲，我也可以娓娓道来许久。
 
-也许是因为我看了太多视频，拍了太多照片，忘了该如何用朴素的文字记录旅途见闻，用平常的文体词汇与词汇讲述陌生的民族与故事。于是我重读了几篇当年很打动我的《撒哈拉的故事》里的散文（[白手起家](https://site.douban.com/206475/widget/notes/12854870/note/271604130/)，[素人渔夫](https://site.douban.com/206475/widget/notes/12854870/note/268430769/)）。我还重读了形而上的游记—[《神曲》](https://www.audible.co.uk/pd/The-Divine-Comedy-Audiobook/B00NCALRR0?ipRedirectOverride=true&source_code=M2M30DFT1Bk13006152102O5&gclid=CjwKCAiArOqOBhBmEiwAsgeLmfeaU5oas5Tkz_E-7A-v_J79-6cMbA76d6CUQ8gR47e6Uep99uPIzxoCvgYQAvD_BwE&gclsrc=aw.ds)，追寻但丁的想象力，从暗夜森林开始，一路从地狱最底层一层一层往上爬，直到炼狱，再到九重天。
+也许是因为我看了太多视频，拍了太多照片，忘了该如何用朴素的文字记录旅途见闻，用平常的文体与词汇讲述陌生的民族与故事。于是我重读了几篇当年很打动我的《撒哈拉的故事》里的散文（[白手起家](https://site.douban.com/206475/widget/notes/12854870/note/271604130/)，[素人渔夫](https://site.douban.com/206475/widget/notes/12854870/note/268430769/)）。我还重读了形而上的游记—[《神曲》](https://www.audible.co.uk/pd/The-Divine-Comedy-Audiobook/B00NCALRR0?ipRedirectOverride=true&source_code=M2M30DFT1Bk13006152102O5&gclid=CjwKCAiArOqOBhBmEiwAsgeLmfeaU5oas5Tkz_E-7A-v_J79-6cMbA76d6CUQ8gR47e6Uep99uPIzxoCvgYQAvD_BwE&gclsrc=aw.ds)，追寻但丁的想象力，从暗夜森林开始，一路从地狱最底层一层一层往上爬，直到炼狱，再到九重天。
 
 如果还没灵感，那么《西游记》、《伊利亚特》、《奥德赛》的重读计划都可以安排上。但这时我想通了，我没有足够的动力写游记，是因为我的旅途缺乏跌宕起伏的转折点，而没了斩妖除魔这样的桥段，就好比你手头只有三色颜料，怎么画得出世界地图呢？现代化的迪拜早已把各路妖魔都除得差不多了，连新冠这样的威胁在阿联酋100%的疫苗普及率面前也蔫儿了。所以我的见闻就当是几片马赛克吧，虽不能勾勒轮廓，但也许能激发读者的一点想象。
 
