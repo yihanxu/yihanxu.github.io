@@ -2,8 +2,8 @@
 layout: post
 comments: true
 title: "Snapshot of the day | Machines replaced blue-collar jobs, AI replacing white-collar careers?"
-tags: AI
-category: UnquenchableSparks 就事论事 随笔
+tags: AI white-collar jobs linkedin careers
+category: UnquenchableSparks 
 ---
  Hey there! Welcome to the first of many daily musings where I dive into a chart or quote that piques my curiosity. It’s all about keeping things sharp, simple, and fun—whether it's a nugget from economics, healthcare, or just a random fact from my hobbies. I'll break it down, throw in a few thoughts, and leave you with ideas on how we can use it. Let’s get to it!
 
