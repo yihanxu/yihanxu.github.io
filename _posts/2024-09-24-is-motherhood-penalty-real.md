@@ -8,7 +8,7 @@ category: SnapshotOfTheDay
 
 When Claudia Goldin won the Nobel Prize for [uncovering drivers of gender differences in the labour market](https://www.nobelprize.org/prizes/economic-sciences/2023/press-release/) last October, I was just about to start my second trimester.
 
-Seeing the trajectory of women’s career since 1790 made me feel lucky as I was born in the era where women not only can work, but can get high-quality jobs. And I gave very little thought about the potential impact of becoming a parent, or more precisely, a mother.
+Seeing the trajectory of women’s career since 1790 makes me feel lucky as I was born in the era where women not only can work, but can get high-quality jobs. And I gave very little thought about the potential impact of becoming a parent, or more precisely, a mother.
 ![women career](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ef0f0c8-4c1b-40b7-8c61-762664a48274_1374x938.png)
 
 Now as I’m approaching the end of maternity leave and starting a new job next week, I remembered about the nice graph that showed where the gender pay gap came from. I found myself downgraded to the ground floor exactly as depicted in the cartoon (thanks to the maternity pay discount), and I need to build stairs to get out of the pit.
