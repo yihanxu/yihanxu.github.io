@@ -7,17 +7,17 @@ category: 寻寻觅觅
 
 故事要从我家后院种的小葱开花说起。小葱种子是我公公多年前捎给老张的，小葱是老张前几周搬家后随便撒到后院的。撒种后不多久，小葱便萌芽了；萌芽后不多久，老张就来不及吃了；再过了不多久，小葱就开了花。花瓣是淡紫色的，形似雏菊，花茎光滑而笔直，颇有傲骨。这身姿，让人难以想起它们稀松平常的卑微出身。
 
-![我家小舍后院开的葱花1](http://upload-images.jianshu.io/upload_images/19585-0c80d290e9faed15.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![我家小舍后院开的葱花1](/images/onion1.jpg)
 
-![我家小舍后院开的葱花2](http://upload-images.jianshu.io/upload_images/19585-ca84a777e8e5f497.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![我家小舍后院开的葱花2](/images/onion2.jpg)
 
 当然，发现葱花之美的并不止我俩。英国皇家植物园丘园（Kew Garden）就时常化平凡为神奇，用最家常的花卉（比如卷心菜）装点其最盛大奢华的水晶温室。我上次去时，丘园里种了大片大片的洋葱花。这些葱花颗颗挺拔，乍一看我还以为是经历数十代杂交培育的名贵巨型蒲公英。可惜这些家伙任凭我怎么吹拂都岿然不动。
 
-![丘园里的洋葱花丛](http://upload-images.jianshu.io/upload_images/19585-015733c1fb555d75.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![丘园里的洋葱花丛](/images/kew_allium.jpg)
 
 而在孩子的眼中，这些洋葱花更是充满魔幻色彩。看那孩子的眼神和紧紧攥着的小手，不禁让人怀疑他手中捏着的是不是巨型棒棒糖🍭。如果这小孩刚好热爱杨梅的话，那么见到如此神似杨梅的花想必更是激动万分。
 
-![小朋友在洋葱花丛中](http://upload-images.jianshu.io/upload_images/19585-82f12e87391699ad.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![小朋友在洋葱花丛中](/images/kids_allium.jpg)
 
 我在朋友圈分享了葱花的盛世美颜后，许多朋友都惊异于葱花低调的奢华。但事实上，洋葱的身份并没有我们想象中那么卑微——它的近亲可是大名鼎鼎的郁金香。
 
@@ -27,10 +27,10 @@ category: 寻寻觅觅
 
 你不必讶异，别看郁金香长得那么高雅迷人，它的鳞茎跟小红葱头从外观上看并无二致。所以，你要庆幸自己没有出生在郁金香狂热的年代。
 
-![郁金香鳞茎.jpg](http://upload-images.jianshu.io/upload_images/19585-50c7fd30211ff1bf.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![郁金香鳞茎.jpg](/images/bulbs.jpg)
 
 虽然你不必担心自己像那个水手那样把名贵的郁金香误当成洋葱给啃了，但你也无须欣喜，你还是要担心自己没有慧眼识珠，错过身边表面洋葱实则郁金香的人。甚至，你自我意识觉醒，发现自己便是如此。
 
 不如明天，去菜场买几颗洋葱，种下，等待潜力萌生。
 
-![荷兰的郁金香集市](http://upload-images.jianshu.io/upload_images/19585-34867e42c6acdde5.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![荷兰的郁金香集市](/images/tulips_market.jpg)
