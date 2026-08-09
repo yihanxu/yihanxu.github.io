@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "A speculation on the origin of "face the music""
+title: "A speculation on the origin of 'face the music'"
 tags: culture Odysseus music semiotics
 category: SnapshotOfTheDay
 ---
