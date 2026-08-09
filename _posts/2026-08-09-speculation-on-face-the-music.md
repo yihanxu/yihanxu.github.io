@@ -2,11 +2,11 @@
 layout: post
 comments: true
 title: "A speculation on the origin of face the music"
-category: SnapshotOfTheDay
 tags: culture Odysseus music semiotics
+category: SnapshotOfTheDay
 ---
 
-I learnt the phrase "face the music“ more than two decades ago, and I've always wondered why on earth would music **connote** something ominous. Why music, of all things?
+I learnt the phrase "face the music“ more than two decades ago, and I've always wondered why on earth would music connote something ominous. Why music, of all things?
 
 Music is heavenly.
 
