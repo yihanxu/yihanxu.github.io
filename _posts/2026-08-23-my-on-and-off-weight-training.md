@@ -24,7 +24,7 @@ Now, the decisions I’m left with are mostly trivial and largely reversible. If
 
 But not all small decisions are equally small. Some disappear the moment they're made. What I have for lunch today hardly matters tomorrow. Others accumulate. One weight-training session is trivial; thirty-five apparently aren't.
 
-Perhaps midlife crisis happens when we run out not only of major decisions, but of the sense that our decisions can still substantially change our future. When I was younger, life changed through a handful of big bets. Perhaps now it changes through hundreds of small ones.
+Perhaps midlife crisis happens when we run out not only of major decisions, but of the sense that our decisions can still substantially change our future. When I was younger, life changed through a handful of big bets. Perhaps now it changes through making a few small decisions for hundreds of times.
 
 Being stronger is just one of them. I have quite a few others. But before getting to them, let me book tomorrow's training session first!
  
