@@ -16,7 +16,7 @@ While reading the reviewers' report, memories flooded back from the distant past
 
 I had almost forgotten all of it until I had to sift through the old files to draft a response to one reviewer's comment. And then I came across a note I had written to the software engineer to articulate what I wanted.
 
-I was strangely touched by how thorough and dedicated I once was. Some bits of that still live with me, of course, but perhaps they don't but they don’t grip me in quite the same way anymore, now that I routinely use AI to help me draft documentation and notes.
+I was strangely touched by how thorough and dedicated I once was. Some bits of that still live with me, of course, but perhaps they don’t grip me in quite the same way anymore, now that I routinely use AI to help me draft documentation and notes.
 
 I just wanted to share one piece from that era, as a sample of my writing and of the thought that went into it when I was trying very hard to express my requirements clearly.
 
