@@ -12,7 +12,7 @@ As the first author, I was supposed to carry it through and get it published. Ho
 
 But the professor who oversaw it apparently didn't. Not after so many years, and not after it was desk-rejected by a few journals. Last month, we got a minor revision decision, so perhaps it might finally see the light of day? That is, if we address the reviewers' comments properly and timely.
 
-While reading the reviewers' report, memories flooded back from the distant past, when I was still in the third year of my PhD. I was keen to design an embodied conversational agent that could gain investors' trust through thick and thin (as few investors can hold on when experiencing stock market turbulence). It was very much a predecessor of the AI agents we see today. But back then, the agent was far less advanced or fluent. I had to draft all the conversational scripts myself.
+While reading the reviewers' report, memories flooded back from the distant past, when I was still in the third year of my PhD. I was keen to design an embodied conversational agent that could gain investors' trust through thick and thin (as few investors can hold on when experiencing stock market turbulence). It was very much a predecessor of the AI agents we see today. But back then, the agent was far less advanced or fluent. I had to draft all the conversational scripts myself. I also had to draft a tremendous amount of documentation to make the experimental web application I envisioned a reality. 
 
 I had almost forgotten all of it until I had to sift through the old files to draft a response to one reviewer's comment. And then I came across a note I had written to the software engineer to articulate what I wanted.
 
