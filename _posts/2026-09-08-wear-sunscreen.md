@@ -10,7 +10,7 @@ Today is the first day back to the office after my holiday. There was very littl
 
 I joked with my colleagues that from now on, I should wear sunscreen religiously, even when the sky looks deceptively cloudy.
 
-Suddenly the phrase "wear sunscreen" stroke a chord -- it was the title for an essay that I memorised at 14. 
+Suddenly the phrase "wear sunscreen" struck a chord -- it was the title for an essay that I memorised at 14. 
 
 Back then, I was desperate to learn English, and I loved the rhythm and philosophy of that essay, although I was probably too young to understand much of what I was reciting.
 
