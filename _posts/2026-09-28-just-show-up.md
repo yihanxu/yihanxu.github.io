@@ -2,9 +2,10 @@
 layout: post
 comments: true
 title: "Just show up, no need to overthink"
-tags: life_advice, show_up, no_show
-category: 这就是生活
+tags: life_advice, show_up, no_show, research_motivation
+category: UnquenchableSparks
 ---
+
 At 6:55pm last Friday, standing close to Albemarle Street, I had to make a decision. Should I take the next Tube home, or head to the Royal Institution (RI) as planned to attend physicist [Carlo Rovelli's discourse](https://www.rigb.org/whats-on/discourse-physics-and-philosophy-equality-all-things)?
 
 It was an embarrassing moment. I had invited Leyi to join me for the talk, yet I couldn't find the tickets! And when I eventually did, I realised that the ticket was for the online stream, not the in-person event, which had already sold out when I booked. Apparently, I had completely forgotten about that!
